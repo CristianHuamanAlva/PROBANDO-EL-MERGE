@@ -197,7 +197,7 @@
         animation: footer_estilo-wiggle 0.5s ease;
     }
 
-    /* Responsive */
+    /* Responsive mode*/
     @media (max-width: 991.98px) {
         .footer_estilo-section {
             margin-bottom: 2rem;
